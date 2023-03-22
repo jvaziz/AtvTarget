@@ -7,4 +7,6 @@ Assim, na primeira iteração, K será 1 e SOMA será 1, na segunda iteração K
 
 o valor da variável SOMA será 91.
 
-2)
+2) código presente nos arquivos, nome do arquivo = "fibonnaci" 
+
+
